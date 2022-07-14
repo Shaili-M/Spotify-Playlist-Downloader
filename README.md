@@ -1,7 +1,7 @@
-# Spotify Playlist Downloader💚
+# Spotify Playlist Downloader
 One of my side projects was creating this thing called Spotify playlist downloader in university I had a trial of Spotify and when it ran out I was too cheap to buy Spotify I didn't have any money but I had 400 plus songs in my playlist I didn't want to lose all that so I created a python program that uses the Spotify API to get those songs and then YouTube's API to download the mp3 version now I had all the same music but for free.
 
-So now NO NEED OF SPOTIFY PREMIUM!🙌
+So now NO NEED OF SPOTIFY PREMIUM!🙌💚
 
 ![1](https://user-images.githubusercontent.com/71213312/178906960-1c2fb15f-47c7-4464-aef5-4276b223a43b.jpg)
 ![2](https://user-images.githubusercontent.com/71213312/178906039-64888998-be5b-4636-8809-f5b7611771ce.jpg)
